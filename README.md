@@ -1,5 +1,3 @@
-# README
-
 [![](https://img.shields.io/github/contributors/juniHub/JavaGUI-hangmanGame.svg?style=for-the-badge)](https://github.com/juniHub/JavaGUI-hangmanGame/graphs/contributors) [![](https://img.shields.io/github/forks/juniHub/JavaGUI-hangmanGame.svg?style=for-the-badge)](https://github.com/juniHub/JavaGUI-hangmanGame/network/members) [![](https://img.shields.io/github/stars/juniHub/JavaGUI-hangmanGame.svg?style=for-the-badge)](https://github.comjuniHub/JavaGUI-hangmanGame/stargazers) [![](https://img.shields.io/github/issues/juniHub/JavaGUI-hangmanGame.svg?style=for-the-badge)](https://github.com/gjuniHub/JavaGUI-hangmanGame/issues) [![](https://img.shields.io/github/license/juniHub/JavaGUI-hangmanGame.svg?style=for-the-badge)](https://github.com/juniHub/JavaGUI-hangmanGame/blob/master/LICENSE.txt)
 
 ### Hangman Game using Java GUI
@@ -41,7 +39,9 @@
 
 ## About The Project
 
-![Hangman Game](https://res.cloudinary.com/dafolrlpj/image/upload/v1621682773/gallery/mx7ulz7bi4nktkrirpgu.png)
+<img src="hangmanGame_JavaGUI.gif" alt="hangman game demo">
+<img src="hangmanGame_JavaGUI1.gif" alt="hangman game demo">
+<img src="hangmanGame_JavaGUI2.gif" alt="hangman game demo">
 
 ### Built With
 
