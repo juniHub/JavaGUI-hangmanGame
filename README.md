@@ -4,11 +4,29 @@
 
 ### Hangman Game using Java GUI
 
- project\_description  
- [**Explore the docs »**](https://github.com/juniHub/JavaGUI-hangmanGame)  
-  
- [Report Bug](https://github.com/juniHub/JavaGUI-hangmanGame/issues) · [Request Feature](https://github.com/juniHub/JavaGUI-hangmanGame/issues)
 
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/juniHub/JavaGUI-hangmanGame">
+    <img src="logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">State Flags using Java GUI</h3>
+
+  <p align="center">
+    project_description
+    <br />
+    <a href="https://github.com/juniHub/JavaGUI-hangmanGame"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/juniHub/JavaGUI-hangmanGame/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/juniHub/JavaGUI-hangmanGame/issues">Request Feature</a>
+  </p>
+</p>
+
+ 
 ## Table of Contents
 
 1.  [About The Project](./#about-the-project)
