@@ -1,4 +1,28 @@
-[![](https://img.shields.io/github/contributors/juniHub/JavaGUI-hangmanGame.svg?style=for-the-badge)](https://github.com/juniHub/JavaGUI-hangmanGame/graphs/contributors) [![](https://img.shields.io/github/forks/juniHub/JavaGUI-hangmanGame.svg?style=for-the-badge)](https://github.com/juniHub/JavaGUI-hangmanGame/network/members) [![](https://img.shields.io/github/stars/juniHub/JavaGUI-hangmanGame.svg?style=for-the-badge)](https://github.comjuniHub/JavaGUI-hangmanGame/stargazers) [![](https://img.shields.io/github/issues/juniHub/JavaGUI-hangmanGame.svg?style=for-the-badge)](https://github.com/gjuniHub/JavaGUI-hangmanGame/issues) [![](https://img.shields.io/github/license/juniHub/JavaGUI-hangmanGame.svg?style=for-the-badge)](https://github.com/juniHub/JavaGUI-hangmanGame/blob/master/LICENSE.txt)
+<!-- PROJECT SHIELDS -->
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/juniHub/JavaGUI-robot.svg?style=for-the-badge
+[contributors-url]: https://github.com/juniHub/JavaGUI-robot/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/juniHub/JavaGUI-robot.svg?style=for-the-badge
+[forks-url]: https://github.com/juniHub/JavaGUI-robot/network/members
+[stars-shield]: https://img.shields.io/github/stars/juniHub/JavaGUI-robot.svg?style=for-the-badge
+[stars-url]: https://github.comjuniHub/JavaGUI-robot/stargazers
+[issues-shield]: https://img.shields.io/github/issues/juniHub/JavaGUI-robot.svg?style=for-the-badge
+[issues-url]: https://github.com/gjuniHub/JavaGUI-robot/issues
+[license-shield]: https://img.shields.io/github/license/juniHub/JavaGUI-robot.svg?style=for-the-badge
+[license-url]: https://github.com/juniHub/JavaGUI-robot/blob/master/LICENSE.txt
+
+
+
 
 ### Hangman Game using Java GUI
 
