@@ -38,7 +38,8 @@
 6. [Contact](./#contact)
 
 ## About The Project
-
+<img src="hangmanGame1.png" alt="hangman game demo">
+<img src="hangmanGame2.png" alt="hangman game demo">
 <img src="hangmanGame_JavaGUI.gif" alt="hangman game demo">
 <img src="hangmanGame_JavaGUI1.gif" alt="hangman game demo">
 <img src="hangmanGame_JavaGUI2.gif" alt="hangman game demo">
