@@ -1,0 +1,17 @@
+waterfall
+river
+desert
+ocean
+peninsula
+island
+bay
+beach
+forest
+shore
+lake
+hills
+canyon
+valley
+plains
+meadow
+pond
