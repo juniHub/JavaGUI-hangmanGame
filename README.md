@@ -8,20 +8,6 @@
 
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/juniHub/JavaGUI-robot.svg?style=for-the-badge
-[contributors-url]: https://github.com/juniHub/JavaGUI-robot/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/juniHub/JavaGUI-robot.svg?style=for-the-badge
-[forks-url]: https://github.com/juniHub/JavaGUI-robot/network/members
-[stars-shield]: https://img.shields.io/github/stars/juniHub/JavaGUI-robot.svg?style=for-the-badge
-[stars-url]: https://github.comjuniHub/JavaGUI-robot/stargazers
-[issues-shield]: https://img.shields.io/github/issues/juniHub/JavaGUI-robot.svg?style=for-the-badge
-[issues-url]: https://github.com/gjuniHub/JavaGUI-robot/issues
-[license-shield]: https://img.shields.io/github/license/juniHub/JavaGUI-robot.svg?style=for-the-badge
-[license-url]: https://github.com/juniHub/JavaGUI-robot/blob/master/LICENSE.txt
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -125,4 +111,20 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Juni Nguyen- [Hello Juni](mailto:hellojuninguyen@gmail.com)
 
 Project Link: [Java GUI Hangman Game](https://github.com/juniHub/JavaGUI-hangmanGame)
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/juniHub/JavaGUI-hangmanGame.svg?style=for-the-badge
+[contributors-url]: https://github.com/juniHub/JavaGUI-hangmanGame/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/juniHub/JavaGUI-hangmanGame.svg?style=for-the-badge
+[forks-url]: https://github.com/juniHub/JavaGUI-hangmanGame/network/members
+[stars-shield]: https://img.shields.io/github/stars/juniHub/JavaGUI-hangmanGame.svg?style=for-the-badge
+[stars-url]: https://github.com/juniHub/JavaGUI-hangmanGame/stargazers
+[issues-shield]: https://img.shields.io/github/issues/juniHub/JavaGUI-hangmanGame.svg?style=for-the-badge
+[issues-url]: https://github.com/juniHub/JavaGUI-hangmanGame/issues
+[license-shield]: https://img.shields.io/github/license/juniHub/JavaGUI-hangmanGame.svg?style=for-the-badge
+[license-url]: https://github.com/juniHub/JavaGUI-hangmanGame/blob/master/LICENSE.txt
+
 
