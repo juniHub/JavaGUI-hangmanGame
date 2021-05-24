@@ -22,11 +22,6 @@
 [license-url]: https://github.com/juniHub/JavaGUI-robot/blob/master/LICENSE.txt
 
 
-
-
-### Hangman Game using Java GUI
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -34,7 +29,7 @@
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">State Flags using Java GUI</h3>
+  <h3 align="center"> Hangman Game using Java GUI</h3>
 
   <p align="center">
     project_description
@@ -49,17 +44,30 @@
 </p>
 
  
-## Table of Contents
-
-1.  [About The Project](./#about-the-project)
-   * [Built With](./#built-with)
-2.  [Getting Started](./#getting-started)
-   * [Prerequisites](./#prerequisites)
-   * [Installation](./#installation)
-3. [Roadmap](./#roadmap)
-4. [Contributing](./#contributing)
-5. [License](./#license)
-6. [Contact](./#contact)
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+  
+  </ol>
+</details>
 
 ## About The Project
 <img src="hangmanGame1.PNG" alt="hangman game demo">
